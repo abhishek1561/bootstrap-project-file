@@ -127,6 +127,9 @@
       <section>
         <h1>New Section</h1>
       </section>
+      <section>
+        <h1>Agian new section</h1>
+      </section>
       <!-- --------------------------Enquiry Section Start---------------------------------- -->
       <section>
         <div class="container pt-5">
