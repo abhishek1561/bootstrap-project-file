@@ -124,6 +124,9 @@
       </div>
       </div>
       <!------------------------Servieces Section End-------------------------------->
+      <section>
+        <h1>New Section</h1>
+      </section>
       <!-- --------------------------Enquiry Section Start---------------------------------- -->
       <section>
         <div class="container pt-5">
