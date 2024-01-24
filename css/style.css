@@ -1,0 +1,61 @@
+.style{
+    background: rgb(239, 62, 163) !important;
+}
+.about-image{
+    min-height: 300px;
+}
+.about-image img{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+.service-image{
+    height: 350px;
+    margin-top: 20px;
+}
+.service-image img{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.enquiry{
+    background-color: #fff;
+}
+.enquiry-form .form-control{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom:1px solid #ccc;
+    margin-bottom: 10px;
+    border-radius: 0px;
+    padding: 0px;
+}
+.enquiry-form label{
+    color: blue;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0px 0px 10px 0px;
+}
+.enquiry-form .form-control:focus{
+    box-shadow: none;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    color: #ccc;
+}
+.footer-line{
+    height: 100px;
+    width: 100%;
+}
+.hr{
+    height: 1px;
+    width: 100%;
+}
